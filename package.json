@@ -1,0 +1,8 @@
+{
+  "name": "yoinker",
+  "version": "1.0.0",
+  "description": "Small Discord bot to steal emotes.",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
